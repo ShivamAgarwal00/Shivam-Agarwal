@@ -43,6 +43,8 @@
   &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   &nbsp;</p>
+  
+  &nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019" alt="postman" width="40" height="40"/> </a> 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shivamagarwal00)](https://github.com/shivamagarwal00/github-readme-stats)
 
