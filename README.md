@@ -53,7 +53,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shivamagarwal00)](https://github.com/shivamagarwal00/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamagarwal&show_icons=true&locale=en" alt="shivamagarwal" /></p>
+![shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivamagarwal00)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamagarwal&" alt="shivamagarwal" /></p>
+
 
