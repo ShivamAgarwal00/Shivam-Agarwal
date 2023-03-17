@@ -56,4 +56,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamagarwal&show_icons=true&locale=en" alt="shivamagarwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamagarwal&" alt="shivamagarwal" /></p>
-https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg
+
