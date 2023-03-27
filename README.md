@@ -31,7 +31,8 @@
   &nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
   &nbsp;<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/sass.png" alt="sass" width="40" height="40"/> </a>
 &nbsp;  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="sass" width="40" height="40"/> </a>
-&nbsp; <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/npm.png" alt="javascript" width="40" height="40"/> </a> 
+&nbsp; <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/npm.png" alt="javascript" width="40" height="40"/> </a> &nbsp;
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/material-ui.png" alt="javascript" width="40" height="40"/> </a> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/256/c-programming.png" alt="c" width="40" height="40"/> </a>
   &nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a>
