@@ -58,7 +58,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shivamagarwal00)](https://github.com/shivamagarwal00/github-readme-stats)
 
-![shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivamagarwal00)
+
 
 
 
