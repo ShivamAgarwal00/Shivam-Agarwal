@@ -42,6 +42,7 @@
   &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/javascript.png" alt="javascript" width="40" height="40"/> </a>&nbsp; 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/256/tailwind_css.png" alt="javascript" width="40" height="40"/> </a>&nbsp;
    <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="javascript" width="40" height="40"/> </a>&nbsp;
+  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:509/1*gbCeTzc727LZNhGQPXIkHA.png" alt="javascript" width="45" height="35"/> </a>&nbsp;
   
   
   &nbsp;<a href="https://github.com/ShivamAgarwal00" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/3d-fluency/256/github.png" width="40" height="40"/> </a>&nbsp;
