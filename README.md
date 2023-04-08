@@ -22,6 +22,13 @@
 <a href="https://codesandbox.com/shivam agarwal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/256/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-duo-tal-revivo.png" alt="shivam agarwal" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Some Profiles:</h3>
+<p align="left">
+<a href="https://auth.geeksforgeeks.org/user/the_yaka_arrow" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1559406522329100288/bZAmg2J7_400x400.jpg" alt="shivam agarwal" height="30" width="35" /></a> &nbsp;
+  <a href="https://www.codingninjas.com/codestudio/profile/3a2c2a7b-6fb9-4c96-8f8e-cfeeffafeb87" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQINqrD6-2HCe6yOPoYa1OUNuuVkCN_j-B5yR5hyLHz6SDOB835PyX2CKDV1PeCmQEgntk&usqp=CAU" alt="shivam agarwal" height="30" width="35" /></a> &nbsp;
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ultraviolet/256/react.png" alt="react" width="40" height="40"/> </a> &nbsp;  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="mongodb" width="40" height="40"/> </a>
