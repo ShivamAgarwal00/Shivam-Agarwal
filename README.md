@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/shivam agarwal" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="shivam agarwal" height="60" width="65" /></a> &nbsp;
+<a href="https://codesandbox.com/shivam agarwal" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="shivam agarwal" height="55" width="60" /></a> &nbsp;
 </p>
 
 <h3 align="left">Some Profiles:</h3>
