@@ -67,6 +67,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shivamagarwal00)](https://github.com/shivamagarwal00/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamAgarwal00&show_icons=true&locale=en" alt="grraghav120" /></p>
+
 
 
 
