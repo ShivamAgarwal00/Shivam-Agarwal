@@ -3,11 +3,12 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align = "right" alt = "coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
+<!-- [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://puneetportfolio.netlify.app/) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="shivamagarwal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CRUD app**
+- 🔭 I’m currently working on **E-commerce app**
 
 - 🌱 I’m currently learning **React.js , APIs**
 
@@ -51,7 +52,7 @@
   &nbsp;<a href="https://github.com/ShivamAgarwal00" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/3d-fluency/256/github.png" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
   &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  &nbsp;<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="heroku" width="40" height="40"/> </a> 
+  &nbsp;<!--<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="heroku" width="40" height="40"/> </a> -->
   &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   &nbsp;</p>
@@ -60,7 +61,13 @@
   <a href="https://atom.en.uptodown.com/windows" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" alt="postman" width="75" height="45"/> </a> &nbsp;
   <a href="https://hyper.is/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/547243/screenshots/6380986/hyper-shot_4x.png?compress=1&resize=400x300&vertical=top" alt="postman" width="50" height="40"/> </a> &nbsp;
 
+
+  ## 📊 Github Statistics
+  <br>
+  
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shivamagarwal00)](https://github.com/shivamagarwal00/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamAgarwal00&show_icons=true&locale=en" alt="grraghav120" /></p>
 <hr>
