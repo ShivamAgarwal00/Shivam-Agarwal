@@ -57,9 +57,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   &nbsp;</p>
   
-  &nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://atom.en.uptodown.com/windows" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" alt="postman" width="75" height="45"/> </a> &nbsp;
-  <a href="https://hyper.is/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/547243/screenshots/6380986/hyper-shot_4x.png?compress=1&resize=400x300&vertical=top" alt="postman" width="50" height="40"/> </a> &nbsp;
 
 
   ## 📊 Github Statistics
