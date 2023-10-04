@@ -68,7 +68,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamAgarwal00&show_icons=true&locale=en" alt="shivamag" /></p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamAgarwal00&" alt="shivam" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamAgarwal00&" alt="shivam" /></p> -->
 
 
 
