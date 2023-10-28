@@ -32,9 +32,9 @@
   &nbsp;
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/nodejs.png" alt="nodejs" width="45" height="45"/> </a>&nbsp;
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/mongoose.png" alt="nodejs" width="40" height="40"/> </a>&nbsp;     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/1x/express-js.png" alt="express" width="40" height="40"/> </a> 
-  &nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
-  &nbsp;<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/sass.png" alt="sass" width="40" height="40"/> </a>
-&nbsp;  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="sass" width="40" height="40"/> </a>
+ <!-- &nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> -->
+ <!-- &nbsp;<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/sass.png" alt="sass" width="40" height="40"/> </a>
+&nbsp;  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="sass" width="40" height="40"/> </a> -->
 &nbsp; <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/npm.png" alt="javascript" width="40" height="40"/> </a> &nbsp;
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/material-ui.png" alt="javascript" width="40" height="40"/> </a> 
   
@@ -44,14 +44,15 @@
   &nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/html-5.png" alt="html5" width="40" height="40"/> </a>
   &nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
   &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/javascript.png" alt="javascript" width="40" height="40"/> </a>&nbsp; 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/256/tailwind_css.png" alt="javascript" width="40" height="40"/> </a>&nbsp;
+ <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/256/tailwind_css.png" alt="javascript" width="40" height="40"/> </a>&nbsp;
    <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="javascript" width="40" height="40"/> </a>&nbsp;
-  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:509/1*gbCeTzc727LZNhGQPXIkHA.png" alt="javascript" width="45" height="35"/> </a>&nbsp;
+  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:509/1*gbCeTzc727LZNhGQPXIkHA.png" alt="javascript" width="45" height="35"/> </a>&nbsp; -->
   
   
-  &nbsp;<a href="https://github.com/ShivamAgarwal00" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/3d-fluency/256/github.png" width="40" height="40"/> </a>&nbsp;
+ <!-- &nbsp;<a href="https://github.com/ShivamAgarwal00" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/3d-fluency/256/github.png" width="40" height="40"/> </a>&nbsp; -->
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
-  &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   &nbsp;<!--<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="heroku" width="40" height="40"/> </a> -->
   &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
